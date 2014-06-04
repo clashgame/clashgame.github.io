@@ -4,9 +4,7 @@
   "manifest_version": 2,
   "version": "0.1",
   "app": {
-    "urls": [
-      "*://clashgame.github.io"
-    ],
+
     "launch": {
       "web_url": "http://clashgame.github.io"
     }
